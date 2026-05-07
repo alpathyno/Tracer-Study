@@ -115,7 +115,7 @@
                         </div>
 
                         <div class="auth-field">
-                            <label class="auth-label">NISN</label>
+                            <label class="auth-label">NIM</label>
                             <div class="auth-input-wrap">
                                 <span class="auth-input-icon"><i class="bi bi-hash"></i></span>
                                 <input type="text" name="nisn"
